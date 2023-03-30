@@ -1,0 +1,58 @@
+!
+! Title: Blocklist
+! Description: Simple Blocklist of trash Tracking and Ads websites
+! Homepage: https://repressoh.eu.org
+! Last modified: 2023-03-30T01:32:47.909Z
+
+! Source name: Simple Blocklist of trash Tracking and Ads websites
+! Homepage: https://repressoh.eu.org
+! Source: https://github.com/Repressoh/Blocklist/list.txt
+!
+! Title: Blocklist
+! Updated: 2023-03-30T00:12:16Z
+! Expires: 1 day (update frequency)
+! Homepage: https://repressoh.eu.org
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||events.hotjar.io^
+||freshmarketer.com^
+||claritybt.freshmarketer.com^
+||fwtracks.freshmarketer.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||widgets.pinterest.com^
+||ads-api.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||log.byteoversea.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||log.fc.yahoo.com^
+||adtech.yahooinc.com^
+||extmaps-api.yandex.net^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||offerwall.yandex.net^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||ck.ads.oppomobile.com^
+||click.oneplus.cn^
+||advertising.apple.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||analytics-api.samsunghealthcn.com^
+||logbak.hicloud.com^
+||logservice1.hicloud.com^
+||logservice.hicloud.com^
+||grs.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics.data.hicloud.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||partner.ads.js^
+||pagead.js^
+||ads.js^
